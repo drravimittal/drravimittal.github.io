@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications-Ravi"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
