@@ -9,9 +9,10 @@ location: "Goa, India"
 ---
 
 
-Heading 1
+Lectures 
 ======
-
+Lecture 0: Introduction to the course
+Lecture 1: xxx
 Heading 2
 ======
 
