@@ -18,7 +18,6 @@ Heading 2
 Heading 3
 ======
 Lecture 0: Introduction to the course
-
 Lecture 1: Great Ideas in Computer Architecture
 
 Lecture 2: Classes of Computers
