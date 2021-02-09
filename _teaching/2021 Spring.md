@@ -17,7 +17,7 @@ Heading 2
 
 Heading 3
 ======
-Lecture 0: Introduction to the course
-Lecture 1: Great Ideas in Computer Architecture
-Lecture 2: Classes of Computers
-Lecture 3: Moore's law and Power constraints
+Lecture 0: Introduction to the course  
+Lecture 1: Great Ideas in Computer Architecture  
+Lecture 2: Classes of Computers  
+Lecture 3: Moore's law and Power constraints  
