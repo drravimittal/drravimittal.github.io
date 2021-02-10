@@ -9,17 +9,11 @@ location: "Goa, India"
 ---
 
 
-Heading 1
+## Sping Semester Feb-May 2021
 ======
-
-Heading 2
-======
-
-Heading 3
-======
-Lecture 0: Introduction to the course   
-    Presentation   
-    Video recording (YouTube)  
+**Lecture 0: Introduction to the course **    
+    - Presentation   
+    - Video recording (YouTube)  
 Lecture 1: Great Ideas in Computer Architecture  
 Lecture 2: Classes of Computers  
 Lecture 3: Moore's law and Power constraints  
