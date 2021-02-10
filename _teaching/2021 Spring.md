@@ -14,6 +14,14 @@ location: "Goa, India"
 **Lecture 0: Introduction to the course**    
     - Presentation   
     - Video recording (YouTube)  
-Lecture 1: Great Ideas in Computer Architecture  
-Lecture 2: Classes of Computers  
-Lecture 3: Moore's law and Power constraints  
+**Lecture 1: Great Ideas in Computer Architecture** 
+    -Presentation   
+    -Video recording (YouTube) 
+**Lecture 2: Classes of Computers**
+    -Presentation   
+    -Video recording (YouTube) 
+
+__Lecture 3: Moore's law and Power constraints__  
+ 
+    -Presentation   
+    -Video recording (YouTube) 
