@@ -10,8 +10,8 @@ location: "Goa, India"
 
 
 ## Sping Semester Feb-May 2021
-======
-**Lecture 0: Introduction to the course **    
+
+**Lecture 0: Introduction to the course**    
     - Presentation   
     - Video recording (YouTube)  
 Lecture 1: Great Ideas in Computer Architecture  
