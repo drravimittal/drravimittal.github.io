@@ -14,10 +14,10 @@ location: "Goa, India"
 **Lecture 0: Introduction to the course**    
     - Presentation   
     - Video recording (YouTube)    
-**Lecture 1: Great Ideas in Computer Architecture** 
+**Lecture 1: Great Ideas in Computer Architecture**   
     -Presentation     
     -Video recording (YouTube)   
-**Lecture 2: Classes of Computers**
+**Lecture 2: Classes of Computers**    
     -Presentation     
     -Video recording (YouTube)   
 
