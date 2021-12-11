@@ -19,13 +19,13 @@ location: "Goa, India"
     -Video recording (YouTube) <https://youtu.be/IS7E50Kj_qU>  
 **Lecture 2: Classes of Computers**    
     -Presentation     
-    -Video recording (YouTube)   
+    -Video recording (YouTube) <https://youtu.be/jqsIpriLwrM>    
 __Lecture 3: Moore's law and Power constraints__    
     -Presentation       
-    -Video recording (YouTube)  
+    -Video recording (YouTube) <https://youtu.be/FXtjFxb8h-c>  
 __Lecture 4: Beyond Moore's law__   
     -Presentation        
-    -Video recording (YouTube)  
+    -Video recording (YouTube) 
 __Lecture 5: Inside a Modern Desktop Computer__   
     -Presentation        
-    -Video recording (YouTube)  
+    -Video recording (YouTube)  <https://youtu.be/dQYgtw1ZuEw>  
