@@ -16,7 +16,7 @@ location: "Goa, India"
     - Video recording (YouTube)    
 **Lecture 1: Great Ideas in Computer Architecture**   
     -Presentation     
-    -Video recording (YouTube)   
+    -Video recording (YouTube)   <https://youtu.be/IS7E50Kj_qU>
 **Lecture 2: Classes of Computers**    
     -Presentation     
     -Video recording (YouTube)   
