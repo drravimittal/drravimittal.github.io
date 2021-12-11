@@ -25,7 +25,7 @@ __Lecture 3: Moore's law and Power constraints__
     -Video recording (YouTube) <https://youtu.be/FXtjFxb8h-c>  
 __Lecture 4: Beyond Moore's law__   
     -Presentation        
-    -Video recording (YouTube) 
+    -Video recording (YouTube)      
 __Lecture 5: Inside a Modern Desktop Computer__   
     -Presentation        
     -Video recording (YouTube)  <https://youtu.be/dQYgtw1ZuEw>  
