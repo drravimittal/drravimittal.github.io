@@ -28,4 +28,16 @@ __Lecture 4: Beyond Moore's law__
     -Video recording (YouTube)      
 __Lecture 5: Inside a Modern Desktop Computer__   
     -Presentation        
-    -Video recording (YouTube)  <https://youtu.be/dQYgtw1ZuEw>  
+    -Video recording (YouTube)  <https://youtu.be/dQYgtw1ZuEw>   
+__Lecture 6: Computer System - Basics__   
+     -Presentation        
+    -Video recording (YouTube)  
+**Lecture 7: Von Neumann Architecture - Part 1 **  
+    -Presentation        
+    -Video recording (YouTube) <https://youtu.be/iLTPf1rNJJo>   
+__Lecture 8: Computer System - Basics__   
+     -Presentation        
+    -Video recording (YouTube)  
+__Lecture 9: Computer System - Basics__   
+     -Presentation        
+    -Video recording (YouTube)  
