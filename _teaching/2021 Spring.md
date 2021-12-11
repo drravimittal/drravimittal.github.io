@@ -30,14 +30,13 @@ __Lecture 5: Inside a Modern Desktop Computer__
     -Presentation        
     -Video recording (YouTube)  <https://youtu.be/dQYgtw1ZuEw>   
 __Lecture 6: Computer System - Basics__   
-     -Presentation        
-    -Video recording (YouTube)  
-**Lecture 7: Von Neumann Architecture - Part 1 **  
-    -Presentation        
-    -Video recording (YouTube) <https://youtu.be/iLTPf1rNJJo>   
-__Lecture 8: Computer System - Basics__   
-     -Presentation        
-    -Video recording (YouTube)  
+    - Presentation        
+    -Video recording (YouTube) <https://youtu.be/vdO7SCS3y9k>         
+     
+__Lecture 8: Von Neumann Architecture - Part 1__     
+     -Presentation     
+     -Video recording (YouTube) <https://youtu.be/iLTPf1rNJJo>      
+    
 __Lecture 9: Computer System - Basics__   
      -Presentation        
     -Video recording (YouTube)  
