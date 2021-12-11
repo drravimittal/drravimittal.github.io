@@ -33,10 +33,12 @@ __Lecture 6: Computer System - Basics__
     - Presentation        
     -Video recording (YouTube) <https://youtu.be/vdO7SCS3y9k>         
      
-__Lecture 8: Von Neumann Architecture - Part 1__     
+__Lecture 7: Von Neumann Architecture - Part 1__     
      -Presentation     
-     -Video recording (YouTube) <https://youtu.be/iLTPf1rNJJo>      
-    
-__Lecture 9: Computer System - Basics__   
+     -Video recording (YouTube) <https://youtu.be/iLTPf1rNJJo>   
+__Lecture 8: Von Neumann Architecture - Part 2__     
+     -Presentation     
+     -Video recording (YouTube) <https://youtu.be/mEfgJOEU16g>   
+__Lecture 9: Instruction Set Architecture__   
      -Presentation        
-    -Video recording (YouTube)  
+    -Video recording (YouTube)  <https://youtu.be/D56HyAZEoHM>
