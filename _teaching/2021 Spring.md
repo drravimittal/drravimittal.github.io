@@ -56,7 +56,7 @@ __Lecture 13: RISC-V Architecture - Logical, Shift Instructions__
     -Video recording (YouTube) <https://youtu.be/aVapSbKYvfI>  
 __Lecture 14: Pointer Fundamentals, Memory Map Concepts__   
      -Presentation        
-    -Video recording (YouTube) Not available
+    -Video recording (YouTube) Not available   
 __Lecture 15: RISC-V Architecture - Branching Instructions__
     -Presentation 
     -Video recording (YouTube) <https://youtu.be/CX9yYGrWvQo>  
@@ -74,16 +74,16 @@ __Lecture 19: Floating Point Numbers - Part 2__
     -Video recording (YouTube) <https://youtu.be/Ais31nNIqnw> 
 __Lecture 20: RISC-V Machine Instructions Part 1__   
      -Presentation        
-    -Video recording (YouTube)   
+    -Video recording (YouTube)   <https://youtu.be/CD7syuAQOlE>  
 __Lecture 21: RISC-V Machine Instructions Part 2__   
      -Presentation        
-    -Video recording (YouTube) 
+    -Video recording (YouTube) <https://youtu.be/77RQphR-gBg>  
 __Lecture 22: RISC-V Machine Instructions Part 3__   
      -Presentation        
-    -Video recording (YouTube) <https://youtu.be/CD7syuAQOlE>   
+    -Video recording (YouTube) Not available  
 __Lecture 23: RISC-V Instructions - Mult, Div, Floating POint__   
      -Presentation        
-    -Video recording (YouTube) 
+    -Video recording (YouTube) Not Available  
 __Lecture 24: RISC-V Microarchitecture - Datapath Design: Processor Components__   
      -Presentation        
     -Video recording (YouTube) <https://youtu.be/Z8WLlusvsis>  
@@ -104,7 +104,7 @@ __Lecture 29: RISC-V Datapath Design - Datapath for jump instructions, Control L
     -Video recording (YouTube) <https://youtu.be/AQqBu18BOb8>  
 __Lecture 30: RISC-V Single Cycle Control Logic Design__   
      -Presentation        
-    -Video recording (YouTube) Not Avaialble
+    -Video recording (YouTube) Not Avaialble  
 __Lecture 31: Single Cycle Datapath Performance, Multicycle, Pipeline Design__   
      -Presentation        
     -Video recording (YouTube) <https://youtu.be/nzST8xI3vm8>  
