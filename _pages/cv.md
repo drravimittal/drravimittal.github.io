@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E in Electronics and Telecommunication, Govt Engg College Jabalpur, 1983
+* M.Tech. in Computer Engineering, University of Roorkee (now IIT Roorkee), 1985
+* Ph.D in Computer Science, IIT Delhi, 1990 
 
-Work experience
+Work experience - Teaching
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2020 - till now: Visiting Professor
+  * IIT Goa, India
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jan 2019 - April 2019: Visiting Professor
+  * IIT Mandi, India
 
-Publications
+* Jan 1990 - June 1997: Lecturer and Assistant Professor
+  * IIT Madras, India
+
+Work experience - Industry
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* July 2017 - December 2019: Industry Consulting and Investing
+
+* Jan 2011 - June 2017 Managing Director/Vice President - Engineering
+  * IP Infusion India
+
+* June 2008 - Dec 2010: Director / VP 
+  * Symbian, Nokia
+
+* July 2005 - June 2008: Assistant VP / Director
+  * Aricent/Flextronics/Hughes
+
+* Aug 2001 - June 2005: Management Positions
+  * IBM India
+
+* July 1997 - June 2000: Senior Manager / Consultant
+  * Hughes Software Systems
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
