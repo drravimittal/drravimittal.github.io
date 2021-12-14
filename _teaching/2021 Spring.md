@@ -142,11 +142,11 @@ __Lecture 43: Input Output Systems Part 2: Memory Mapped I/O, DMA__
      -[Presentation]  (https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2043%20Input%20Output%20System%20%20Part%202%20Memory%20Mapped%20I:O%2C%20DMA.pptx)     
     -Video recording (YouTube)  <https://youtu.be/ETuyOWA-mGc>  
 __Lecture 44: Computer Networks: Datalink Layer Introduction__   
-     -[Presentation]        
-    -Video recording (YouTube)   <https://youtu.be/5v82qIf5T2Y> 
+     -[Presentation]    (https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2044%20%20Datalink%20Layer%20-%20Introduction%20.pptx)    
+    -Video recording (YouTube)   <https://youtu.be/5v82qIf5T2Y>  
 __Lecture 45: Computer Networks: The Ethernet__   
-     -Presentation        
+     -[Presentation] (https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2045%20The%20Ethernet.pptx)      
     -Video recording (YouTube) <https://youtu.be/Z8DGQlCL9zQ>
 __Lecture 46: Mobile Communication - An Introduction__   
-     -Presentation        
+     -[Presentation]  (https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2046%20%20Mobile%20Communication.pptx)     
     -Video recording (YouTube) <https://youtu.be/ECY2Yesa4Cw>  
