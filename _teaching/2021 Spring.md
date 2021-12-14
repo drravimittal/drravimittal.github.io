@@ -12,7 +12,7 @@ location: "Goa, India"
 ## Sping Semester Feb-May 2021
 
 **Lecture 1: Great Ideas in Computer Architecture**   
-    -Presentation     
+    -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/15efd5c8efe1925e333e350477ff72f7c07591c7/Lecture%201%20Great%20Ideas%20in%20Computer%20Architecture.ppt)     
     -Video recording (YouTube) <https://youtu.be/IS7E50Kj_qU>  
 **Lecture 2: Classes of Computers**    
     -Presentation     
