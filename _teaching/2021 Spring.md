@@ -68,7 +68,7 @@ __Lecture 18: Floating Point Numbers - Part 1__
     -Video recording (YouTube) <https://youtu.be/D5PO9E1c7pA>  
 __Lecture 19: Floating Point Numbers - Part 2__   
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2018-19%20Floating%20Point%20Numbers.pptx)        
-    -Video recording (YouTube) <https://youtu.be/Ais31nNIqnw> 
+    -Video recording (YouTube) <https://youtu.be/Ais31nNIqnw>   
 __Lecture 20: RISC-V Machine Instructions Part 1__   
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2020%20RISC-V%20Machine%20Instructions-Part%201.pptx)   
     -Video recording (YouTube)   <https://youtu.be/CD7syuAQOlE>  
