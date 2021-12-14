@@ -10,10 +10,10 @@ date: 1-July-2020
 
 # Sping Semester Feb-May 2021
 
-**Lecture 0:**
+**Lecture 0: Introduction to Digital Technology**
     -[Presentation]()    
     -Video recording (YouTube) <>
 
-**Lecture :**
+**Lecture 1 :**
     -[Presentation]()    
     -Video recording (YouTube) <>
