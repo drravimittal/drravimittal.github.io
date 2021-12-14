@@ -3,10 +3,6 @@ title: "Foundations of Digital Transformation"
 collection: teaching
 type: "Advanced Industry Oriented Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2021-01-01
-location: "City, Country"
+venue: "IIT Goa"
+date: 2021 July - Dec
 ---
-
-
-
