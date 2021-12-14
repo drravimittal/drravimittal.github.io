@@ -87,7 +87,7 @@ __Lecture 25: RISC-V Microarchitecture - Datapath Design - : Combinational Logic
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2025%20Microarchitecture%20-%20Datapath%20Design%20Part%202%20Combinational%20logic%20components.pptx)    
     -Video recording (YouTube) <https://youtu.be/lIW5b9EIWBI>  
 __Lecture 26: RISC-V Microarchitecture - FF, PC, Register File, Storage Elements, Single Cycle, Multicycle, Pipeline Design__   
-     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2026%20Microarchitecture%20-%20Datapath%20Design%20Part%202.pptx)
+     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2026%20Microarchitecture%20-%20Datapath%20Design%20Part%202.pptx)  
     -Video recording (YouTube) <https://youtu.be/lIW5b9EIWBI>   
 __Lecture 27: RISC-V Datapath Design - Single Cycle Datapath - R-type Instructions__   
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2027%20Datapath%20Design%20Part%203.pptx)         
@@ -96,7 +96,7 @@ __Lecture 28: RISC-V - Datapath Design - Single Cycle Datapath implementation fo
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2028%20RISC-V%20Single%20Cycle%20Datapath%20Design%20Part%204.pptx)    
     -Video recording (YouTube)  <https://youtu.be/34euZGHUl9s>  
 __Lecture 29: RISC-V Datapath Design - Datapath for jump instructions, Control Logic__   
-     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2029%20RISC-V%20Single%20Cycle%20Datapath%20Design%20Part%205.pptx)
+     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2029%20RISC-V%20Single%20Cycle%20Datapath%20Design%20Part%205.pptx)  
     -Video recording (YouTube) <https://youtu.be/AQqBu18BOb8>  
 __Lecture 30: RISC-V Single Cycle Control Logic Design__   
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2030%20RISC-V%20Single%20Cycle%20Control%20Logic%20Design%20-%201.pptx)   
@@ -117,7 +117,7 @@ __Lecture 35: Memory Hierarchy and Cache Memory__
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2035%20Memory%20Hierarchy%20and%20Cache%20Memory%20-%201.pptx)      
     -Video recording (YouTube) <https://youtu.be/ejEWaILh2mk>  
 __Lecture 36: Cache Memory Organization - Set Associative Caches__   
-     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2036%20Cache%20Memory%20Organization%20-%20Set%20Associative%20Caches.pptx) 
+     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2036%20Cache%20Memory%20Organization%20-%20Set%20Associative%20Caches.pptx)   
     -Video recording (YouTube)   <https://youtu.be/JmL9Az7IHcE>  
 __Lecture 37: Cache Memory: Writing and Reading Operations; Multilevel Cache Architecture__   
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2037%20Cache%20Memory%20Operation%20and%20Architecture%20Cache-3.pptx)   
@@ -132,7 +132,7 @@ __Lecture 40: Virtual Memory Part 2: Paged Memory__
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2040%20%20Virtual%20Memory-%20Part%202.pptx)     
     -Video recording (YouTube) <https://youtu.be/SekxMwR94rQ>  
 __Lecture 41: Virtual Memory Part 3: Protection, TLB, Hierarchical Page Table__   
-     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2041%20Virtual%20Memory%20-%203.pptx) 
+     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2041%20Virtual%20Memory%20-%203.pptx)  
     -Video recording (YouTube) <https://youtu.be/3RRFAfN7jq4>  
 __Lecture 42: Input Output Systems Part 1: Introduction, Polling, Interrupt Driven I/O__   
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2042%20Input%20Output%20System%20Part%201-%20Introduction%2C%20Polling%2C%20Interrupts.pptx)      
