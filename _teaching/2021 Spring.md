@@ -18,7 +18,7 @@ location: "Goa, India"
     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%202%20Classes%20of%20computers.pptx)   
     -Video recording (YouTube) <https://youtu.be/jqsIpriLwrM>       
 __Lecture 3: Moore's law and Power constraints__    
-    -[Presentation]   (https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%203%20Moore's%20Law%20and%20Power%20Constraints.pptx)
+    -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%203%20Moore's%20Law%20and%20Power%20Constraints.pptx)
     -Video recording (YouTube) <https://youtu.be/FXtjFxb8h-c>   
 __Lecture 4: Beyond Moore's law__   
     -[Presentation] (https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%204%20Beyond%20Moore's%20Law.pptx)         
