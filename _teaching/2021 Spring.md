@@ -70,7 +70,7 @@ __Lecture 19: Floating Point Numbers - Part 2__
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2018-19%20Floating%20Point%20Numbers.pptx)        
     -Video recording (YouTube) <https://youtu.be/Ais31nNIqnw> 
 __Lecture 20: RISC-V Machine Instructions Part 1__   
-     -[Presentation]  (https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2020%20RISC-V%20Machine%20Instructions-Part%201.pptx)   
+     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2020%20RISC-V%20Machine%20Instructions-Part%201.pptx)   
     -Video recording (YouTube)   <https://youtu.be/CD7syuAQOlE>  
 __Lecture 21: RISC-V Machine Instructions Part 2__   
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2021%20RISC-V%20Machine%20Instructions%20-%20Part%202%20.pptx)      
@@ -82,7 +82,7 @@ __Lecture 23: RISC-V Instructions - Mult, Div, Floating POint__
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2023%20RISC-V%20Instruction%20Int%20Mult%20Div%20Floating%20Point.pptx)       
     -Video recording (YouTube) Not Available  
 __Lecture 24: RISC-V Microarchitecture - Datapath Design: Processor Components__   
-     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2024%20RISC-V%20Datapath%20Design%201%20Processor%20Components%20Registers.pptx)
+     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2024%20RISC-V%20Datapath%20Design%201%20Processor%20Components%20Registers.pptx)   
     -Video recording (YouTube) <https://youtu.be/Z8WLlusvsis>  
 __Lecture 25: RISC-V Microarchitecture - Datapath Design - : Combinational Logic Components__   
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2025%20Microarchitecture%20-%20Datapath%20Design%20Part%202%20Combinational%20logic%20components.pptx)    
@@ -119,9 +119,9 @@ __Lecture 35: Memory Hierarchy and Cache Memory__
     -Video recording (YouTube) <https://youtu.be/ejEWaILh2mk>  
 __Lecture 36: Cache Memory Organization - Set Associative Caches__   
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2036%20Cache%20Memory%20Organization%20-%20Set%20Associative%20Caches.pptx) 
-    -Video recording (YouTube)   <https://youtu.be/JmL9Az7IHcE>
+    -Video recording (YouTube)   <https://youtu.be/JmL9Az7IHcE>  
 __Lecture 37: Cache Memory: Writing and Reading Operations; Multilevel Cache Architecture__   
-     -[Presentation]  (https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2037%20Cache%20Memory%20Operation%20and%20Architecture%20Cache-3.pptx)   
+     -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2037%20Cache%20Memory%20Operation%20and%20Architecture%20Cache-3.pptx)   
     -Video recording (YouTube) <https://youtu.be/ms14Rj9IK8M>  
 __Lecture 38: Cache Memory Performance__   
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%2038%20Cache-4%20Cache%20Memory%20Performance.pptx)      
