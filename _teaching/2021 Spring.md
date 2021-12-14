@@ -12,11 +12,12 @@ location: "Goa, India"
 ## Sping Semester Feb-May 2021
 
 **Lecture 1: Great Ideas in Computer Architecture**   
-    -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/15efd5c8efe1925e333e350477ff72f7c07591c7/Lecture%201%20Great%20Ideas%20in%20Computer%20Architecture.ppt)     
-    -Video recording (YouTube) <https://youtu.be/IS7E50Kj_qU>  
+    -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/15efd5c8efe1925e333e350477ff72f7c07591c7/Lecture%201%20Great%20Ideas%20in%20Computer%20Architecture.ppt)    
+    - <a href="https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/15efd5c8efe1925e333e350477ff72f7c07591c7/Lecture%201%20Great%20Ideas%20in%20Computer%20Architecture.ppt" download> Download Presentation </a> 
+    -Video recording (YouTube) <https://youtu.be/IS7E50Kj_qU>    
 **Lecture 2: Classes of Computers**    
-    -Presentation     
-    -Video recording (YouTube) <https://youtu.be/jqsIpriLwrM>    
+    -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%202%20Classes%20of%20computers.pptx)
+    -Video recording (YouTube) <https://youtu.be/jqsIpriLwrM>      
 __Lecture 3: Moore's law and Power constraints__    
     -Presentation       
     -Video recording (YouTube) <https://youtu.be/FXtjFxb8h-c>  
