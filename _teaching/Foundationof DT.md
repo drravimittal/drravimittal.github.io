@@ -6,9 +6,11 @@ permalink: /teaching/2015-spring-teaching-1
 venue: "IIT Goa"
 date: 1-July-2020
 ---
+
+
 # Sping Semester Feb-May 2021
 
-**Lecture :**
+**Lecture 0:**
     -[Presentation]()    
     -Video recording (YouTube) <>
 
