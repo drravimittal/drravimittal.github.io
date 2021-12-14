@@ -28,8 +28,7 @@ __Lecture 5: Inside a Modern Desktop Computer__
     -Video recording (YouTube)  <https://youtu.be/dQYgtw1ZuEw>   
 __Lecture 6: Computer System - Basics__   
     - [Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%206%20Computer%20System%20Basics.pptx)        
-    -Video recording (YouTube) <https://youtu.be/vdO7SCS3y9k>          
-     
+    -Video recording (YouTube) <https://youtu.be/vdO7SCS3y9k>             
 __Lecture 7: Von Neumann Architecture - Part 1__     
      -[Presentation](https://github.com/drravimittal/CS211-Computer-Architecture-2021/blob/main/Lecture%207%20Von%20Neumann%20Architcture-%20Part%201.pptx)    
      -Video recording (YouTube) <https://youtu.be/iLTPf1rNJJo>   
