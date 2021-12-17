@@ -9,8 +9,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-- title: "Sadhana"
+  - title: "Sadhana"
     url: /publications/
 
- - title: "CV"
+  - title: "CV"
     url: /cv/
