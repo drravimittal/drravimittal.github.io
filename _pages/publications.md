@@ -15,9 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**Sadhana**
-My Sadhana is my sincere efforts with the aim of self evolution. Once may ask this question: Do we need to evolve? Evolve to what?
-Everyone has a different meaning of evolution. For me, evolution must lead to "blissful state of being .. beyond waves and patterns of mind .. which is mostly external in nature". 
+Sadhana can be defined as sincere efforts for self evolution. Once may ask this question: Do we need to evolve? Evolve to what?
+One possible answer is: Evolution must lead to "blissful state of being .. beyond waves and patterns of mind .. which is mostly external in nature". 
 
 **Sadhana Activities**
 
